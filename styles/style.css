@@ -1,0 +1,47 @@
+body{
+	background-image:url(http://i0.hdslb.com/bfs/archive/5fe62954d3b2fc403fc0b033622b5d99a6de731c.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+}
+
+.content{
+	width:30%;
+	height:auto;
+	border:1px solid #ffffff00;
+	margin:20% auto;
+	text-align:center;
+	background:rgba(0,0,0,0.4);
+}
+.content .logo h1{
+	color:#fff;
+}
+.content .form{
+	margin-top:25px;
+}
+.content .form .input_outer input{
+	width:250px;
+	font-size:18px;
+	color:#fff;
+	border:0;
+	border-bottom:2px solid #fff;
+	padding:8px 10px;
+	background:#ffffff00;
+}
+.content .form .input_outer{
+	margin-top:15px;
+}
+.content .form .input_outer i{
+	font-size:18px;
+	color:#fff;
+}
+.content button{
+	width:200px;
+	height:40px;
+	margin-top:20px;
+	font-size:20px;
+	font-weight:700;
+	color:#fff;
+	background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+	border:0;
+	border-radius:15px;
+}
